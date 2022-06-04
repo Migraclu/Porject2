@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-word pc
-=======
-word on computer
->>>>>>> a4bea9772e76bfc99b435784df0d277e6a73bb7b
-theem  
