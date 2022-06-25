@@ -1,4 +1,4 @@
-# Markdown :----:
+# Markdown |:----:|
 
 Markdown là một ngôn ngữ đánh dấu với cú pháp văn bản thô, được thiết kế để có thể dễ dàng chuyển thành HTML và nhiều định dạng khác, được dùng để tạo các tập tin Readme.md trên các diễn đàn
 
