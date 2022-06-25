@@ -1,16 +1,11 @@
 # Porject2
 
-   `Use: **Bold  Text** `
-
-   ** Bold text **  
-
-   `Use: *Italic text* `
-
-   *Italic text* 
-
-   `Use: **_Bold and Italic_** `
-   
-   **_Bold and Italic_**
+```
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+```
 
    
 # Markdown Cheat Sheet
