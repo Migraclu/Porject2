@@ -1,11 +1,11 @@
 # Porject2
 
-`Code https: ksdaljf`
+`Code  [Markdown Guide](https://www.markdownguide.org)`
 
 ### Link
    [text](url)
    
-   [Markdown Guide](https://www.markdownguide.org)
+  
 
 ##### Khi dùng list, có thể tạo sub list = cách lùi 3 space:
  Trình tự các dấu:
