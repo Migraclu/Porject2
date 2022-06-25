@@ -7,7 +7,7 @@
       2. Shiba
        1. Ino
        2. Cat
-       1. dog
-       2. shu
+          1. dog
+          2. shu
    2. No
 3. Bye
