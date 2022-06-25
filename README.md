@@ -2,15 +2,15 @@
 
    `Use: **Bold  Text** `
 
-     ** Bold text **  
+   ** Bold text **  
 
    `Use: *Italic text* `
 
-     *Italic text* 
+   *Italic text* 
 
    `Use: **_Bold and Italic_** `
    
-     **_Bold and Italic_**
+   **_Bold and Italic_**
 
    
 # Markdown Cheat Sheet
