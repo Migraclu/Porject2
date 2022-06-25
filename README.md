@@ -1,5 +1,10 @@
 # Porject2
 
+1. Hi
+   1. Hi
+      1. Hi
+         1. Hi
+
 ##### Khi dùng list, có thể tạo sub list = cách lùi 3 space:
  Trình tự các dấu:
 ###### - Ordered List: 1 --> i. --> a. --> a.
