@@ -1,6 +1,6 @@
 # Porject2
    
-`use: '`'code'`' `   
+``code`` 
    
 # Markdown Cheat Sheet
 
