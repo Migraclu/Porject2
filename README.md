@@ -1,5 +1,10 @@
 # Porject2
 
+##### Khi dùng list, có thể tạo sub list = cách lùi 3 space:
+ Trình tự các dấu:
+###### - Ordered List: 1 --> i. --> a. --> a.
+###### - Unordered List: black dot --> white dot --> black square dot
+
 1. Hello
 2. I am Orca
    1. Yes
