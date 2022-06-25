@@ -5,7 +5,7 @@
 `Use: *Italic text* `
 
 `Use: **_Bold and Italic_** `
-   ** Bold text **  
+   **Bold text **  
    *Italic text* 
    **_Bold and Italic_**
 
