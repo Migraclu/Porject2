@@ -1,6 +1,13 @@
 # Porject2
-   dsafa
-``Use `code` ``
+
+`Use: ** Text ** `
+
+`Use: *Italic text* `
+
+`Use: **_Bold and Italic_** `
+   ** Bold text **  
+   *Italic text* 
+   **_Bold and Italic_**
 
    
 # Markdown Cheat Sheet
